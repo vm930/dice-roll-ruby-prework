@@ -4,6 +4,6 @@
 
 def roll
   # code goes here
-  arr = (1..6)
+  arr = rang(1..6)
   arr.gets
 end
