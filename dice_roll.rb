@@ -4,6 +4,6 @@
 
 def roll
   # code goes here
-  arr = rang(1..6)
+  arr = rand(1..6)
   arr.gets
 end
